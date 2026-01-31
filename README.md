@@ -1,7 +1,7 @@
 ## GitHub Repository
 
 You can view the complete project here:
-https://github.com/yourusername/Student-Registration-WebApp
+https://github.com/greeshsutar/Student-Registration-WebApp
 
 ## Live Demo
 https://yourusername.github.io/Student-Registration-WebApp/
